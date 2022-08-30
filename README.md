@@ -2,7 +2,7 @@
 first repository
 [about me]
 # my name is Matej
-## my second name is Cikojević
+## my surname  is Cikojević
 *** I'm a basketball player***
 > I'm finishing the 4th grade of high school
 I think, this is enough for my first task 
